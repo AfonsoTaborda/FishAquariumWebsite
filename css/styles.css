@@ -1,0 +1,39 @@
+body {
+    background-image: url("../images/aquarium.jpg");
+    background-size: cover;
+}
+
+img {
+    position: fixed;
+}
+
+#fish1Id {
+    left: 250px;
+    top: 250px;
+    width: 250px;
+    height: 250px;
+}
+
+#fish2Id {
+    left: 500px;
+    top: 250px;
+    width: 150px;
+    height: 150px;
+}
+
+.bubbleClass {
+    width: 100px;
+    height: 100px;
+}
+
+#hitCount
+{
+	text-align: center;
+	font-size: 3em;
+	color: yellow;
+}
+
+.hidden
+{
+	visibility: hidden;
+}
